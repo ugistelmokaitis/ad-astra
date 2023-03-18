@@ -1,3 +1,5 @@
+<img src="/cover.png" alt="cover_image"/>
+
 # Ad-Astra Dark
 
 Ad Astra's space-inspired design not only helps you focus on your work and increase productivity but adds a touch of personality and style to your workspace.
