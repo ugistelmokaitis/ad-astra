@@ -1,0 +1,34 @@
+{
+  "name": "ad-astra",
+  "displayName": "Ad Astra",
+  "description": "A dark theme for VS Code",
+  "version": "0.0.1",
+  "publisher": "ugistelmokaitis",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ugistelmokaitis/ad-astra"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "vscode",
+    "ad astra",
+    "ugistelmokaitis"
+  ],
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ad Astra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ad Astra-color-theme.json"
+      }
+    ]
+  }
+}
