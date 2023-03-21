@@ -559,7 +559,6 @@
 			"name": "Markup - Bold",
 			"scope": ["markup.bold", "markup.bold string"],
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#FFFFFF"
 			}
 		},
@@ -573,11 +572,11 @@
 		},
 		{
 			"name": "Markup - Quote",
-			"scope": ["markup.quote"]
-		},
-		{
-			"name": "Markup - Quote",
-			"scope": ["markup.quote"]
+			"scope": ["markup.quote"],
+			"settings": {
+				"foreground": "#FFFFFF",
+				"fontStyle": "bold"
+			}
 		},
 		{
 			"name": "Markup - Table",
