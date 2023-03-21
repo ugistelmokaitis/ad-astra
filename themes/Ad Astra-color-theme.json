@@ -78,8 +78,9 @@
 		"button.background": "#FBADFF",
 		"button.hoverBackground": "#F58EFA",
 		"button.foreground": "#111111",
-    "button.secondaryBackground": "#FBADFF",
-    "button.secondaryHoverBackground": "#F58EFA",
+		"button.secondaryBackground": "#FBADFF",
+		"button.secondaryForeground": "#111111",
+		"button.secondaryHoverBackground": "#F58EFA",
 		// B A D G E S
 		"badge.background": "#FBADFF",
 		"badge.foreground": "#000000",
@@ -110,15 +111,15 @@
 		// S C R O L L B A R
 		"scrollbarSlider.background": "#34343480",
 		"scrollbarSlider.hoverBackground": "#343434",
-    // P E E K - V I E W - E D I T O R
-    "peekViewEditor.background": "#161616",
-    "peekView.border": "#37EAF0",
-    "peekViewEditorGutter.background": "#161616",
-    "peekViewResult.background": "#161616",
-    "peekViewResult.fileForeground": "#CCCCCC",
-    "peekViewResult.matchHighlightBackground": "#FFFFFF25",
-    "peekViewResult.selectionBackground": "#FFFFFF25",
-    "peekViewTitle.background": "#161616",
+		// P E E K - V I E W - E D I T O R
+		"peekViewEditor.background": "#161616",
+		"peekView.border": "#37EAF0",
+		"peekViewEditorGutter.background": "#161616",
+		"peekViewResult.background": "#161616",
+		"peekViewResult.fileForeground": "#CCCCCC",
+		"peekViewResult.matchHighlightBackground": "#FFFFFF25",
+		"peekViewResult.selectionBackground": "#FFFFFF25",
+		"peekViewTitle.background": "#161616",
 		// N O T I F I C A T I O N S
 		"notifications.foreground": "#CCCCCC",
 		"notifications.background": "#111111",
@@ -135,10 +136,10 @@
 		"panel.border": "#474747",
 		"panelTitle.activeForeground": "#FFFFFF",
 		"panelTitle.activeBorder": "#FBADFF",
-    // S E T T I N G S
-  "settings.modifiedItemIndicator": "#FBADFF"
+		// S E T T I N G S
+		"settings.modifiedItemIndicator": "#FBADFF"
 	},
-  // T O K E N  C O L O R S
+	// T O K E N  C O L O R S
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -264,7 +265,6 @@
 				"foreground": "#57E2E5"
 			}
 		},
-
 		{
 			"name": "Class, Support",
 			"scope": [
