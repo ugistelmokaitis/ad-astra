@@ -4,6 +4,8 @@
   "description": "A dark theme for VS Code",
   "version": "0.0.4",
   "publisher": "ugistelmokaitis",
+  "license": "MIT",
+  "homepage": "https://ugistelmokaitis.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/ugistelmokaitis/ad-astra"
